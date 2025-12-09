@@ -130,6 +130,11 @@ Status: Open
 Attachments: screenshot_otp_issue.png
 ```
 
----
+## 🔄 Bug Workflow Diagram (Defect Life Cycle)
+
+Below is the complete defect lifecycle followed in this project:
+
+![Bug Workflow](screenshots/image.png)
+
 
 
