@@ -59,3 +59,13 @@ Version or build number where the fix is deployed.
 
 ## 🔄 Status Workflow
 
+---
+
+## 🧪 Retest Result (QA)
+Pass / Fail  
+Notes:
+
+---
+
+## 📝 Additional Comments
+Anything else relevant.
